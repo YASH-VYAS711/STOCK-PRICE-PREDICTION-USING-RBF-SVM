@@ -7,4 +7,4 @@ training. RBF-SVM was selected for its strength in handling non-linear relations
 effective for complex financial datasets. The project involved splitting the data into training and testing sets, optimizing hyperparameters
 to improve the model's predictive accuracy, and evaluating performance using Mean Squared Error (MSE) and visual comparisons
 between actual and predicted prices. The results demonstrated that the RBF-SVM model effectively captured trends and patterns in
-stock prices, offering a valuable tool for investors and analysts
+stock prices, offering a valuable tool for investors and analysts.
